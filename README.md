@@ -29,11 +29,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-  <a href="<img width="149" height="148" alt="image" src="https://github.com/user-attachments/assets/06958f74-0383-41df-81f8-1c6da21ff5e6" />
-" target="_blank" rel="noreferrer">
-    <img src="<img width="149" height="148" alt="image" src="https://github.com/user-attachments/assets/084b3c4d-2eba-41c8-a414-409e52f4ff40" />
-/_images/logo-mark-lightbg.svg" alt="power bi" width="40" height="40"/> 
-  </a>
+  
    </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-infinity&show_icons=true&locale=en&layout=compact" alt="ankit-infinity" /></p>
