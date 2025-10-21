@@ -18,21 +18,23 @@
 
 - 📫 How to reach me **ghoshankit15325@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,sklearn" />
   </a>
-   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+   </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_images/logo-mark-lightbg.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.statsmodels.org/_images/logo-mark-lightbg.svg" alt="statsmodels" width="40" height="40"/> 
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-infinity&show_icons=true&locale=en&layout=compact" alt="ankit-infinity" /></p>
