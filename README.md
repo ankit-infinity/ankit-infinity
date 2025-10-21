@@ -29,8 +29,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-  <a href="https://icons8.com/" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/_images/logo-mark-lightbg.svg" alt="power bi logo" width="40" height="40"/> 
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img src="https://app.powerbi.com/_images/logo-mark-lightbg.svg" alt="power bi" width="40" height="40"/> 
   </a>
    </p>
 
