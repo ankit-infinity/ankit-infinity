@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-infinity&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-infinity" /> </p>
 
-- 🔭 I’m currently working on **prediction**
+- 🔭 I’m currently working on **Time series forecasting**
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -17,6 +17,11 @@
 - 💬 Ask me about **statistics**
 
 - 📫 How to reach me **ghoshankit15325@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/kaustab saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustab saha" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
